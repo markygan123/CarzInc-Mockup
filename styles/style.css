@@ -1,0 +1,155 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Ubuntu";
+}
+
+.header {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+
+	height: 100vh;
+	width: 100vw;
+
+	background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../images/car-background.jpg);
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}
+
+.header-nav {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.header-logo img {
+	width: 275px;
+	height: 100px;
+	cursor: pointer;
+}
+
+.nav-links {
+	flex-wrap: wrap-reverse;
+}
+
+.nav-links > li {
+	display: inline;
+	list-style-type: none;
+	margin-right: 35px;
+}
+
+.nav-links > li a,
+.hover > span,
+.schedule {
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #fff;
+}
+
+.hover {
+	position: relative;
+	z-index: 1;
+}
+
+.hover span {
+	margin: 0 10px;
+}
+
+.hover-menu {
+	display: none;
+	z-index: 2;
+}
+
+.hover:hover .hover-menu {
+	display: block;
+	background-color: #dbdbdb;
+	width: 220px;
+	border-radius: 5px;
+
+	position: absolute;
+	top: 19.5px;
+	left: -35px;
+
+}
+
+.hover-menu > li {
+	margin-bottom: 10px;
+	list-style-type: none;
+	text-align: center;
+
+	padding: 5px;
+
+}
+
+.hover-menu > li a {
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: initial;
+}
+
+.hover-menu > li:first-of-type {
+	padding-top: 14px;
+}
+
+.nav-links > li a:hover,
+.hover-menu > li a:hover {
+	transition: 0.2s all ease 0.2s;
+	color: #00d11c;
+}
+
+.nav-links > li a:hover {
+	color: #00ff22;
+}
+
+.hover-menu > li a:hover {
+	color: #00d11c;
+}
+
+.hero-title {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 175px;
+}
+
+.title {
+	font-size: 4em;
+	text-transform: uppercase;
+	text-shadow: 3px 3px 1px black;
+	margin-bottom: 10px;
+}
+
+.sub-title {
+	font-size: 1.55em;
+	margin-bottom: 13px;
+}
+
+.title,
+.sub-title {
+	color: #fff;
+}
+
+.schedule {
+	margin-top: 50px;
+	padding: 20px 30px;
+	border-radius: 8px;
+
+	background-color: #00d11c;
+	font-size: 1.3em;
+	text-transform: uppercase;
+}
+
+.schedule:hover {
+	background-color: #00ff22;
+}
