@@ -158,7 +158,13 @@ body {
 .why-cars-inc {
 	display: flex;
 	justify-content: center;
-	align-items: center;	
+	align-items: center;
+
+	height: 150vh;
+}
+
+.brown-car {
+	border: 2px solid black;
 }
 
 .brown-car img {
@@ -166,3 +172,7 @@ body {
 	height: 450px;
 }
 
+.why-cars-text {
+	width: 35%;
+	border: 2px solid black;
+}
