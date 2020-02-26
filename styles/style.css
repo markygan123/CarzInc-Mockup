@@ -153,3 +153,13 @@ body {
 .schedule:hover {
 	background-color: #00ff22;
 }
+
+
+.why-cars-inc {
+	display: flex;
+}
+
+.brown-car img {
+	width: 50%;
+	height: auto;
+}
