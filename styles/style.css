@@ -157,9 +157,11 @@ body {
 
 .why-cars-inc {
 	display: flex;
+	align-items: center;	
 }
 
 .brown-car img {
-	width: 50%;
-	height: auto;
+	width: 85%;
+	height: 450px;
 }
+
