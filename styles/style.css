@@ -181,6 +181,10 @@ body {
 
 }
 
+.why-cars-text > h1 {
+	font-size: 2em;
+}
+
 .why-cars-text > p {
 	margin: 15px 0;
 }
