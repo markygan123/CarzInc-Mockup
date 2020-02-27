@@ -173,11 +173,13 @@ body {
 }
 
 .why-cars-text {
-	width: 35%;
+	width: 45%;
 	border: 2px solid black;
 
 	padding: 20px;
-	margin-bottom: 125px;
+	margin-bottom: 100px;
+
+	line-height: 2;
 
 
 }
