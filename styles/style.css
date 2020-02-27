@@ -168,7 +168,7 @@ body {
 }
 
 .brown-car img {
-	width: 90%;
+	width: 95%;
 	height: 500px;
 }
 
@@ -177,12 +177,13 @@ body {
 	border: 2px solid black;
 
 	padding: 20px;
+	margin-bottom: 125px;
 
 
 }
 
 .why-cars-text > h1 {
-	font-size: 2em;
+	font-size: 4em;
 }
 
 .why-cars-text > p {
