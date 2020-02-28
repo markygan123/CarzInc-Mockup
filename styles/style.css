@@ -48,7 +48,8 @@ body {
 
 .nav-links > li a,
 .hover > span,
-.schedule {
+.schedule,
+.schedule-2 {
 	text-decoration: none;
 	text-transform: uppercase;
 	font-weight: bold;
