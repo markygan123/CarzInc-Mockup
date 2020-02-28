@@ -206,4 +206,5 @@ body {
 	height: 100vh;
 
 	background-image: url(../images/car-background-2.jpg);
+	background-size: cover;
 }
