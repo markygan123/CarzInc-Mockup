@@ -144,9 +144,13 @@ body {
 
 .schedule {
 	margin-top: 50px;
+	
+}
+
+.schedule,
+.schedule-2 {
 	padding: 20px 30px;
 	border-radius: 8px;
-
 	background-color: #00d11c;
 	font-size: 1.3em;
 	text-transform: uppercase;
@@ -222,6 +226,8 @@ body {
 
 .schedule-2 {
 	margin-top: 35px;
+
+	font-size: 1.3em;
 }
 
 .schedule-title,
