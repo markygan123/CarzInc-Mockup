@@ -213,6 +213,7 @@ body {
 	background-attachment: fixed;
 }
 
-.schedule-title {
+.schedule-title,
+.schedule-subtitle {
 	color: #fff;
 }
