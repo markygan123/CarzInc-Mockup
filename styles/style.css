@@ -217,6 +217,10 @@ body {
 	background-attachment: fixed;
 }
 
+.schedule-title {
+	letter-spacing: 0.05em;
+}
+
 .schedule-subtitle {
 	margin: 15px 0;
 
