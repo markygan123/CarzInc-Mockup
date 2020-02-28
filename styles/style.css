@@ -194,3 +194,7 @@ body {
 	margin: 20px 0;
 	font-size: 1.1em;
 }
+
+.schedule-now {
+	display: flex;
+}
