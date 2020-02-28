@@ -197,4 +197,5 @@ body {
 
 .schedule-now {
 	display: flex;
+	flex-direction: column;
 }
