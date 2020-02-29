@@ -156,7 +156,8 @@ body {
 	text-transform: uppercase;
 }
 
-.schedule:hover {
+.schedule:hover,
+.schedule-2:hover {
 	background-color: #00ff22;
 }
 
