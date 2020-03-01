@@ -251,8 +251,12 @@ body {
 
 .footer-links {
 	display: flex;
+	justify-content: center;
 
 	list-style-type: none;
 
 }
 
+.footer-links > li a {
+	text-decoration: none;
+}
