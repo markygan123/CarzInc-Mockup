@@ -243,14 +243,15 @@ body {
 
 .footer	{
 	display: flex;
-	justify-content: center;
-	align-items: center;
 
 	height: 35vh;
 }
 
-.footer-links {
+.footer-navbar {
 	display: flex;
+}
+
+.footer-links {
 
 }
 
