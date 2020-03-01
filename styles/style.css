@@ -243,15 +243,16 @@ body {
 
 .footer	{
 	display: flex;
+	flex-direction: column;
 
 	height: 35vh;
-}
 
-.footer-navbar {
-	display: flex;
 }
 
 .footer-links {
+	display: flex;
+
+	list-style-type: none;
 
 }
 
