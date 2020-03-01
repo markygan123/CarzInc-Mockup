@@ -241,3 +241,11 @@ body {
 	color: #fff;
 }
 
+.footer	{
+	display: flex;
+}
+
+.footer-links {
+	display: flex;
+}
+
