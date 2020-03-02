@@ -49,7 +49,8 @@ body {
 .nav-links > li a,
 .hover > span,
 .schedule,
-.schedule-2 {
+.schedule-2,
+.footer-links > li a {
 	text-decoration: none;
 	text-transform: uppercase;
 	font-weight: bold;
@@ -260,13 +261,13 @@ body {
 }
 
 .footer-links {
-	/*display: flex;*/
+	display: flex;
 }
 
 .footer-links > li {
 	list-style-type: none;
 }
 
-.footer-links > li a {
+/*.footer-links > li a {
 	text-decoration: none;
-}
+}*/
