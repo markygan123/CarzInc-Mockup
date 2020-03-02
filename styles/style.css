@@ -104,7 +104,8 @@ body {
 }
 
 .nav-links > li a:hover,
-.hover-menu > li a:hover {
+.hover-menu > li a:hover,
+.footer-links > li a:hover {
 	transition: 0.2s all ease 0.2s;
 	color: #00d11c;
 }
