@@ -243,4 +243,6 @@ body {
 
 .footer	{
 	display: flex;
+
+	height: 35vh;
 }
