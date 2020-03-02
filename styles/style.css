@@ -251,3 +251,8 @@ body {
 .footer-navbar {
 	background-color: #404040;
 }
+
+.footer-links {
+	display: flex;
+}
+
