@@ -243,25 +243,9 @@ body {
 
 .footer	{
 	display: flex;
-	flex-direction: column;
-
-	height: 35vh;
-
-}
-
-.footer-navbar {
-	height: 65%;
-	background-color: #3d3d3d;
 }
 
 .footer-links {
 	display: flex;
-	justify-content: center;
-
-	list-style-type: none;
-
 }
 
-.footer-links > li a {
-	text-decoration: none;
-}
