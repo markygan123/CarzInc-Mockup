@@ -268,3 +268,7 @@ body {
 	margin: 0 15px;
 	list-style-type: none;
 }
+
+.footer-links > li a {
+	font-size: 1.3em;
+}
