@@ -249,16 +249,24 @@ body {
 }
 
 .footer-navbar {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
 	background-color: #404040;
 
 	height: 65%;
 }
 
 .footer-links {
-	display: flex;
+	/*display: flex;*/
 }
 
 .footer-links > li {
 	list-style-type: none;
 }
 
+.footer-links > li a {
+	text-decoration: none;
+}
