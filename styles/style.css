@@ -269,3 +269,7 @@ body {
 .footer-links > li a {
 	font-size: 1.3em;
 }
+
+.footer-info {
+	background-color: #2b2b2b;
+}
