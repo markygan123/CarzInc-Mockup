@@ -292,8 +292,12 @@ body {
 	color: #919191;
 }
 
-.call-us,
-.email {
+.copyright {
+	margin-right: auto;
+}
+
+.call,
+.email{
 	color: #fff;
 	font-weight: bold;
 }
