@@ -270,6 +270,10 @@ body {
 	font-size: 1.3em;
 }
 
+.footer-links > li .homepage-link {
+	color: #bdbdbd;
+}
+
 .footer-info {
 	display: flex;
 	justify-content: center;
@@ -313,3 +317,4 @@ body {
 .email {
 	cursor: pointer;
 }
+
