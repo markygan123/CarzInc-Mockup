@@ -288,6 +288,11 @@ body {
 	margin-right: auto;
 }
 
+.fab {
+	font-size: 1.45em;
+	margin: 0 3px;
+}
+
 .contact-info {
 	display: flex;
 	margin-left: auto;
