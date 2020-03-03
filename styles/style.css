@@ -272,4 +272,10 @@ body {
 
 .footer-info {
 	background-color: #2b2b2b;
+
+	height: 25%;
+}
+
+.footer-info-links li {
+	display: inline;
 }
