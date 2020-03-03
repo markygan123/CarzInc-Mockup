@@ -279,22 +279,7 @@ body {
 	height: 25%;
 }
 
-.footer-info-links {
-	display: flex;
-}
 
-.footer-info-links > li {
-	list-style-type: none;
-}
-
-.footer-info-links > li a {
-	text-decoration: none;
-	color: #919191;
-}
-
-.copyright {
-	margin-right: auto;
-}
 
 .call,
 .email{
