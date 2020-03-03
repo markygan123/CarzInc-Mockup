@@ -280,3 +280,8 @@ body {
 	display: inline;
 	list-style-type: none;
 }
+
+.footer-info-links > li a {
+	text-decoration: none;
+	color: #919191;
+}
