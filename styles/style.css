@@ -271,6 +271,9 @@ body {
 }
 
 .footer-info {
+	display: flex;
+	justify-content: center;
+	align-items: center;
 	background-color: #2b2b2b;
 
 	height: 25%;
@@ -284,4 +287,10 @@ body {
 .footer-info-links > li a {
 	text-decoration: none;
 	color: #919191;
+}
+
+.call-us,
+.email {
+	color: #fff;
+	font-weight: bold;
 }
