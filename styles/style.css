@@ -274,6 +274,12 @@ body {
 	color: #bdbdbd;
 }
 
+.footer-links > li .homepage-link:hover {
+	transition: none;
+	color: #bdbdbd;
+	cursor: initial;
+}
+
 .footer-info {
 	display: flex;
 	justify-content: center;
