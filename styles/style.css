@@ -46,6 +46,10 @@ body {
 	margin-right: 35px;
 }
 
+.nav-links:last-of-type {
+	margin-right: 25px;
+}
+
 .nav-links > li a,
 .hover > span,
 .schedule,
