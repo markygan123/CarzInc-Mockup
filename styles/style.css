@@ -169,14 +169,13 @@ body {
 	justify-content: center;
 	align-items: center;
 
-	height: 100vh;
+	height: 110vh;
 	width: 100vw;
 
 	margin-top: 25px;
 }
 
 .brown-car {
-	/*border: 2px solid black;*/
 	width: 39%;
 }
 
